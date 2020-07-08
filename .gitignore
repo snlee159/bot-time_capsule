@@ -1,3 +1,5 @@
 venv
 .idea
 .idea/*
+time_capsule/passwords.py
+*pin_backup_*
