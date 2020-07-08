@@ -17,6 +17,13 @@ Every day after, run for the last 24 hours with:
 ## Output
 A CSV with the pins from the last 24 hours
 
+## API Resources
+The following are links to some of the API calls used within this bot:
+- pins.list: https://api.slack.com/methods/pins.list
+- users.info: https://api.slack.com/methods/users.info
+- conversations.list: https://api.slack.com/methods/conversations.list
+- conversations.join: https://api.slack.com/methods/conversations.join
+
 ## Next Steps
 - Change the output to save the new pins to a given shared Google doc rather than a CSV
 - Add in some interactive functionality for users to search backed up pins
